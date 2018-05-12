@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
 description: Rollo continues his European travel, travelling to Rome with his Uncle
   George.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23430#Rollo-in-Rome
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-11-10'
 gutenberg_type: Text
