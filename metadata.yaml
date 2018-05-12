@@ -1,0 +1,34 @@
+_repo: Rollo-in-Rome_23430
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: Rollo continues his European travel, travelling to Rome with his Uncle
+  George.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23430'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome (Italy) -- Description and travel'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+title: Rollo in Rome
+url: http://www.gutenberg.org/ebooks/23430
